@@ -1,0 +1,10 @@
+pennylane==0.42.3
+jax==0.4.28
+jaxlib==0.4.28
+optax==0.2.5
+matplotlib>=3.10
+numpy>=2.3
+scikit-learn>=1.7.2
+pandas>=2.3.3
+scipy>=1.16.3
+seaborn>=0.13.2
