@@ -1,6 +1,6 @@
 # QNN Design for Supervised Learning (Bachelor Thesis)
 
-This repository contains the code and experiment setup I used for my bachelor's thesis on **Quantum Neural Network (QNN) / Parameterized Quantum Circuit (PQC) design** in a **supervised-learning** setting.
+This repository contains the code and experimental setup I used for my bachelor's thesis on **Quantum Neural Network (QNN) / Parameterized Quantum Circuit (PQC) design** in a **supervised-learning** setting.
 
 The work focuses on how different circuit design choices (encoding, entangling structure, depth, etc.) affect **trainability** and **function-approximation performance** on **synthetic regression targets**.
 
